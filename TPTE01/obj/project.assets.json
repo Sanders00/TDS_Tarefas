@@ -220,11 +220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TPTE\\01\\TPTE01.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TDS_Tarefas\\TPTE01\\TPTE01.csproj",
       "projectName": "TPTE01",
-      "projectPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TPTE\\01\\TPTE01.csproj",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TDS_Tarefas\\TPTE01\\TPTE01.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TPTE\\01\\obj\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TDS_Tarefas\\TPTE01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -280,7 +280,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
