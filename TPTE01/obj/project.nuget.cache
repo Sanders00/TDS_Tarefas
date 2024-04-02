@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3JxvOAZDA9vOL3bLtfBnruBIWxNjNKi6dxrCz2w+3bIQIpIisKHg7pJ3ByBmA8mkUT0BoaMqHtesN57QHvSWHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Coisas\\Faculdade\\p6\\TDS\\TDS_Tarefas\\TPTE01\\TPTE01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
